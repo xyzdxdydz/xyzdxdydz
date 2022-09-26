@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xyzdxdydz
 - 👀 I’m interested in Artifical Inteligent
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me ...
 
